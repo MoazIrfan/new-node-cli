@@ -1,0 +1,46 @@
+{
+	"name": "new-node-cli",
+	"description": "CLI to create Node.js CLIs.",
+	"version": "1.0.0",
+	"bin": {
+		"new-node-cli": "index.js"
+	},
+	"repository": "moazirfan/new-node-cli",
+	"author": {
+		"name": "Moaz Irfan",
+		"email": "irfanmoaz@gmail.com",
+		"url": "https://moazirfan.com"
+	},
+	"files": [
+		"index.js",
+		"utils",
+		"template"
+	],
+	"keywords": [
+		"new-node-cli",
+		"Create Node.js CLI",
+		"Build Node CLI",
+		"node cli",
+		"nodejs",
+		"Moaz",
+		"Moaz Irfan"
+	],
+	"dependencies": {
+		"await-to-js": "^3.0.0",
+		"chalk": "^4.1.1",
+		"cli-meow-help": "^2.0.2",
+		"cli-welcome": "^2.2.2",
+		"copy-template-dir": "^1.4.0",
+		"data-store": "^4.0.3",
+		"enquirer": "^2.3.6",
+		"execa": "^5.0.0",
+		"meow": "9.0.0",
+		"ora": "^5.4.0"
+	},
+	"devDependencies": {
+		"prettier": "^2.3.0"
+	},
+	"scripts": {
+		"format": "prettier --write \"./**/*.{js,json}\""
+	}
+}
