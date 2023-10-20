@@ -1,10 +1,15 @@
+[![new-node-cli](https://github.com/moazirfan/new-node-cli/raw/main/.github/new-node-cli.png)](https://github.com/MoazIrfan/new-node-cli)
+
+[![DOWNLOADS](https://img.shields.io/npm/dt/wc23-cli?label=DOWNLOADS%20%20%E2%9D%AF&colorA=80bc03&colorB=80bc03&style=flat)](https://www.npmjs.com/package/new-node-cli)
+
 # new-node-cli
 
 > CLI to create new Node.js CLI
 
 <br>
 
- 📦 Create a Node.js CLI in no time
+- 📦 Create a Node.js CLI in no time
+- 🌐 Get started right away with your work, focusing on what you need to do without worrying about setting up the rest of the stuff. 
 
 <br>
 
